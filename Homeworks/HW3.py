@@ -22,5 +22,5 @@ def prime_second(num):
 for i in range(lowNum, upNum):
     if i < 500:
         prime_first(i)
-    else:
+    if 500 < i < 1000:
         prime_second(i)
