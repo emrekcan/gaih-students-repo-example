@@ -4,7 +4,6 @@
 **Course Date:** DD.MM.YYYY  
 **Name:** Emre  
 **Surname:** Akcan
-**Email:** e***@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
