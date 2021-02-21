@@ -7,7 +7,7 @@ class Hangman:
     def __init__(self):
         pass
 
-    def get_word_from_user(self):
+    def wordsFromUser(self):
         self.searchingWord = input("Write the word to be found \n")
         self.chList = ['_' for i in range(len(self.searchingWord))]
 
@@ -42,5 +42,5 @@ class Hangman:
            sys.exit()
 
 player = Hangman()
-player.get_word_from_user()
+player.wordsFromUser()
 player.start()
